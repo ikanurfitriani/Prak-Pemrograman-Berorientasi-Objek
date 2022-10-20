@@ -1,5 +1,5 @@
 # Praktikum Pemrograman Berorientasi Objek
-Repositori ini memuat arsip kode dari mata kuliah Praktikum Pemrograman Berorientasi Objek di semester 4. Yang mana di dalamnya terdapat bagian latihan dan tugas yang telah saya kerjakan.
+This repository contains code archives from the Object Oriented Programming Practicum course in semester 4. In which there are answers from exercises and assignments that I have done.
 
 ## Author
 [@Ika Nurfitriani](http://github.com/ikanurfitriani)
